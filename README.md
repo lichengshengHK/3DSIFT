@@ -14,7 +14,7 @@ Generate SIFT descriptors and matching results for 3D images
 
 1.SVD3DSIFT-20251119，(1)提高了对大size体图像的处理能力.(2)计算速度提高了4倍，（3）内置了错误匹配的矫正处理
 
-2.SVD3DSIFT-20241204, (1)UI全新界面，（2）操作更加便捷，（3）增加了tif图像生成.mat数据，（4）增加了预处理功能
+2.SVD3DSIFT-20251204, (1)UI全新界面，（2）操作更加便捷，（3）增加了tif图像生成.mat数据，（4）增加了预处理功能
 
 References:
 
