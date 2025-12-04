@@ -1,9 +1,7 @@
 # 3DSIFT
-3D SIFT based on MATLAB
+3D SIFT based on MATLAB 2024b
 
-MATLAB 2024b
-
-Generate SIFT descriptors and matching results for 3D images
+Generate SIFT descriptors and matching results for 3D volume images
 
 使用前，需要安装 matlab 2024b runtime.
 
