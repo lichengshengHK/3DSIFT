@@ -5,6 +5,8 @@ Generate SIFT descriptors and matching results for 3D volume images
 
 使用前，需要安装 matlab 2024b runtime.
 
+中文视频教程：“数字图像测量” (b站，用户名）
+
 <img width="2110" height="1316" alt="3DSIFTSVD主界面" src="https://github.com/user-attachments/assets/7437473e-04ad-4495-bff2-b8410eb82d48" />
 
 
